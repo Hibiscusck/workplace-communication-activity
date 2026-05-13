@@ -29,4 +29,4 @@ BEGIN
     CALL MorningSyncMeeting()
 END
 
-> The term “ping” means sending a signal or data packet from one device to another to check connectivity and response time over a network.
+> The term “ping” means sending a signal or data packet from one device to another to check connectivity and response time over a network. 
